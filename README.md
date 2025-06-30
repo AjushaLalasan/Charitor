@@ -1,4 +1,4 @@
-    **🌟 Project Title: Charitor – Charity Support Web Application 🌟**
+    🌟 Project Title: Charitor – Charity Support Web Application 🌟
 
 **📖 About the Project**
 
@@ -15,19 +15,14 @@ The project serves as a static frontend prototype for a donation platform, promo
 
 **📸 Screenshots**
 
-🔹 Home Page Banner
-
 ![Banner](screenshots/banner.png)
 
-🔹 Causes Section
 
 ![Causes](screenshots/causes.png)
 
-🔹 About Section
 
 ![About](screenshots/about.png)
 
-🔹 Contact Form
 
 ![Contact](screenshots/contact.png)
 
