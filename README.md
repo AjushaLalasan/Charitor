@@ -1,4 +1,4 @@
-                                                **🌟 Project Title: Charitor – Charity Support Web Application 🌟**
+    **🌟 Project Title: Charitor – Charity Support Web Application 🌟**
 
 **📖 About the Project**
 
