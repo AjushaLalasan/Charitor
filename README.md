@@ -21,17 +21,6 @@ The project serves as a static frontend prototype for a donation platform, promo
 ![About](screenshots/about.png)
 🔹 Contact Form
 ![Contact](screenshots/contact.png)
-📁 Folder Structure
 
-├── index.html
-├── index.css
-├── script.js
-├── images/
-│ ├── image2.jpg
-│ ├── image3.jpg
-│ └── image4.jpg
-└── screenshots/
-├── banner.png
-├── causes.png
 ├── about.png
 └── contact.png
