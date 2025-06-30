@@ -8,7 +8,9 @@ The project serves as a static frontend prototype for a donation platform, promo
 **🔧 Technologies Used**
 
 • HTML5 – for structuring the content
+
 • CSS3 – for styling and layout
+
 • JavaScript – for basic form validation
 
 **📸 Screenshots**
