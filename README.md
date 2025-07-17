@@ -1,5 +1,5 @@
 
-**🌟 [Project Title: Charitor – Charity Support Web Application] (https://charitor.netlify.app/) 🌟**
+**🌟 Project Title: Charitor – Charity Support Web Application 🌟**
 
 
 **📖 About the Project**
